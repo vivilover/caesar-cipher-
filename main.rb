@@ -45,4 +45,4 @@ def caesar_cipher(string, shift_factor)
   cipher_string.join("")
 end
 
-p caesar_cipher("What a string!", 5)
+p caesar_cipher("What a string!", 5) # expected result: "Bmfy f xywnsl!"
